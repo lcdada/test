@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>你在干嘛</h2>
+    <h2>不知道啊</h2>
   </div>
 </template>
 
