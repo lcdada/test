@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to 廉氏集团！年终总结。来变 换最后一次'
+      msg: '变吗'
       
     }
   }
@@ -32,5 +32,8 @@ li {
 }
 a {
   color: #42b983;
+}
+.hello h2{
+  color: #ea2000;
 }
 </style>
