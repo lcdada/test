@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '变吗'
+      msg: '你在干嘛'
       
     }
   }
