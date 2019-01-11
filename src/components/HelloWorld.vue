@@ -9,7 +9,8 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to 廉氏集团！'
+      msg: 'Welcome to 廉氏集团！年终总结'
+      
     }
   }
 }
