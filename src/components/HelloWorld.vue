@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: '你在干嘛'
+      msg:'我也是醉了'
       
     }
   }
@@ -35,5 +35,8 @@ a {
 }
 .hello h2{
   color: #ea2000;
+}
+.hello h{
+  color: black;
 }
 </style>
